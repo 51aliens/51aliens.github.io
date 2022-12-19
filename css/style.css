@@ -1488,7 +1488,8 @@ input[type="text"] {
   grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 0;
-  padding: 3.5%;
+  padding-left: 3.5%;
+  padding-right:3.5%;
   justify-content: center;
   align-items: center;
 }
@@ -1514,5 +1515,11 @@ hr {
   margin-left: 0;
   margin-right: 0;
   width: 100%;
+}
+
+.twitter-embed-container {
+  width: 50%; /* Set the width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: center; /* Center the embed vertically */
 }
 /*# sourceMappingURL=style.css.map */
