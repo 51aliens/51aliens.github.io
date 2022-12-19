@@ -1523,4 +1523,11 @@ hr {
   margin-right:0 ; /* Center the container horizontally */
   text-align: center; /* Center the embed vertically */
 }
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 /*# sourceMappingURL=style.css.map */
