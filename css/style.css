@@ -1518,7 +1518,7 @@ hr {
 }
 
 .twitter-embed-container {
-  width: 50%; /* Set the width of the container */
+  width: 100%; /* Set the width of the container */
   margin: 0 auto; /* Center the container horizontally */
   text-align: center; /* Center the embed vertically */
 }
